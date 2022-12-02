@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night:
+  theme_day:
+  theme_night: minimal
   font: native
   font_size: L
 
@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/GalenWright/wright-lab-website'
     content_dir: content
     branch: main
   avatar:
