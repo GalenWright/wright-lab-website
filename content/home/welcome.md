@@ -16,8 +16,6 @@ design:
   # Add custom styles
   css_style:
   css_class:
-  # Resize image
-{{ $img := $asset.Fit "x400" }}
 ---
 
 <br>
