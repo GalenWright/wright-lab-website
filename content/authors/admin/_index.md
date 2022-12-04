@@ -10,28 +10,28 @@ role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: University of Manitoba
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Assistant professor and Canada Research Chair in Neurogenomics
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Precision medicine
+  - Neurology
+  - DNA repair
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Genetics
+      institution: Stellenbosch University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc Honours in Genetics
+      institution: Stellenbosch University
+      year: 2006
+    - course: BSc Biotechnology
+      institution: Stellenbosch University
+      year: 2005
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -40,16 +40,20 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:galen.wright@umanitoba.ca'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/GalenWright
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.co.za/citations?hl=en&user=mv5MyEsAAAAJ&view_op=list_works&sortby=pubdate
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/GalenWright
+  - icon: cv
+    icon_pack: ai
+    link: https://www.dropbox.com/s/na57zimsxk55wzi/GalenWrightCV.pdf?dl=0
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,9 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Principal Investigator
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dr. Wright started as an Assistant Professor at the University of Manitoba in April 2020 and is currently a Canada Research Chair in *Neurogenomics*. He is also a principal investigator at the PrairieNeuro Research Centre in the Health Sciences Centre Winnipeg and a research scientist at the Children’s Hospital Foundation of Manitoba (CHRIM). He completed his Ph.D. in Genetics at Stellenbosch University and received additional training in computational biology at the South African National Bioinformatics Institute. Dr. Wright then conducted a postdoctoral fellowship at the University of British Columbia, where his research investigated drug-induced neurotoxicities and genetic modifiers of Huntington disease.
