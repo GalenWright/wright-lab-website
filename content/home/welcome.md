@@ -21,3 +21,5 @@ design:
 <br>
 
 Welcome to the **Wright Lab**! We are a human genetics research group that uses genomics to understand the brain in both health and disease. 
+
+We are primarily affiliated with the Department of Pharmacology & Therapeutics at the University of Manitoba. Our lab is in the Neuroscience Research Program at the Kleysen Institute for Advanced Medicine, Health Sciences Centre, and we have several local, national, and international collaborations. We are also affiliated with the Department of Biochemistry and Medical Genetics, University of Manitoba, as well as the Children’s Hospital Research Institute of Manitoba (CHRIM, ENRRICH theme).
