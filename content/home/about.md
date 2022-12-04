@@ -8,7 +8,7 @@ headless: true # This file represents a page section.
 weight: 25 # Order that this section will appear.
 title: |
   About
-hero_media: 
+hero_media: ai_brain.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
