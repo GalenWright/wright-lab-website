@@ -21,3 +21,21 @@ design:
 <br>
 
 Welcome to the **Wright Lab**! We are a human genetics research group that uses genomics to understand the brain in both health and disease.
+**KEY PROJECTS**
+- Genetic modifiers of neurological disorders
+- Genomics of DNA repair in the brain
+
+**KEY DISORDERS**
+- Huntington disease
+- CANVAS
+- Rett syndrome
+
+**KEY COMPUTATIONAL METHODS**
+- Genomic fine mapping
+- Single-cell sequencing
+- Machine learning
+
+**KEY COMPUTATIONAL METHODS**
+- Human stem cells
+- Neural cell culture
+- CRISPR gene editing
