@@ -8,10 +8,10 @@ headless: true # This file represents a page section.
 weight: 25 # Order that this section will appear.
 title: |
   ABOUT
-hero_media: UM-logo-vertical-CMYK.png
+hero_media: 
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '2'
+  columns: '1'
   # Add custom styles
   css_style:
   css_class:
