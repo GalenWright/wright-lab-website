@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Galen Wright
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
