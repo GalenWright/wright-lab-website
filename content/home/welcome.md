@@ -9,7 +9,7 @@ weight: 10 # Order that this section will appear.
 title: |
   Wright Neurogenomics  
   Research Group
-hero_media: lab_logo.jpg
+hero_media: lab_logo.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
