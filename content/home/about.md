@@ -5,7 +5,7 @@
 
 widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
-weight: 25 # Order that this section will appear.
+weight: 20 # Order that this section will appear.
 title: |
   About
 hero_media: ai_brain.png
@@ -19,7 +19,7 @@ design:
 
 <br>
 
-We would like to understand why individuals affected by the same neurological disorder can experience differences in disease severity and onset. 
+*We would like to understand why individuals affected by the same neurological disorder can experience differences in disease severity and onset.* 
 
 Genetic variants that alter the clinical expression of disease-causing mutations are known as genetic modifiers and can help explain these differences. For example, genetic variants in genes from DNA repair pathways influence age-of-onset for several neurological diseases.
 
@@ -37,7 +37,7 @@ Insights obtained from our research can lead to a better understanding of human 
 - Single-cell sequencing
 - Machine learning
 
-**KEY COMPUTATIONAL METHODS**
+**KEY WET LAB METHODS**
 - Human stem cells
 - Neural cell culture
 - CRISPR gene editing

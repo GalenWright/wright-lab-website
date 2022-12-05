@@ -5,7 +5,7 @@
 
 widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
-weight: 22 # Order that this section will appear.
+weight: 40 # Order that this section will appear.
 title: Where
 hero_media: UM-logo-vertical-CMYK.png
 design:
