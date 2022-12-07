@@ -19,3 +19,5 @@ design:
 <br>
 
 We are primarily affiliated with the Department of Pharmacology & Therapeutics at the University of Manitoba. Our lab is in the Neuroscience Research Program at the Kleysen Institute for Advanced Medicine, Health Sciences Centre. We are also affiliated with the Department of Biochemistry and Medical Genetics, University of Manitoba, as well as the Children’s Hospital Research Institute of Manitoba (CHRIM, ENRRICH theme). We have several local, national, and international collaborations - please reach out if you are interested in working with us or would like to join our team.
+
+<a href="https://twitter.com/intent/tweet?button_hashtag=galenwright&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #galenwright</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
