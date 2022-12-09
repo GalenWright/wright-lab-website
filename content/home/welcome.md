@@ -22,3 +22,7 @@ design:
 
 Welcome to the **Wright Lab**! We are a human genetics research group that uses genomics to understand the brain in both health and disease.
 
+{{% callout note %}}
+If you interested in joining the lab as a trainee, please see key information in our [Contact section](contact).
+{{% /callout %}}
+
