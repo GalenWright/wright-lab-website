@@ -14,7 +14,8 @@ design:
   columns: '1'
   # Add custom styles
   css_style:
-  css_class:
+  css_class: 
+  text-align: center
 ---
 
 <br>
