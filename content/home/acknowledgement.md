@@ -13,8 +13,8 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
   # Add custom styles
-  css_style:
-  css_class: "text-align: center;"
+  css_style: "text-align: center;"
+  css_class: 
 ---
 
 <br>
