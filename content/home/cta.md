@@ -7,6 +7,7 @@ weight: 50
 design:
   columns: '1'
 ---
+css_style:  "text-align: center;"
 
 {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
 
