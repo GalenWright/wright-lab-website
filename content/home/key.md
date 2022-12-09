@@ -7,7 +7,7 @@ widget: hero
 headless: true # This file represents a page section.
 weight: 30 # Order that this section will appear.
 title:
-hero_media:
+hero_media: bison_navy_brown.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
