@@ -15,7 +15,7 @@ subtitle:
 design:
   columns: '1'
   background:
-    image: d_w_teams.jpeg
+    image: d_w_teams.png
     image_darken: 0
     image_parallax: false
     image_position: center
