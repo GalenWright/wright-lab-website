@@ -6,6 +6,8 @@ headless: true
 weight: 50
 design:
   columns: '1'
+  spacing:
+    padding: ['20px', '0', '20px', '0']
 ---
 
 
