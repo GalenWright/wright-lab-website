@@ -10,7 +10,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 110
+weight: 150
 
 title: Wet lab research at KIAM
 subtitle:
