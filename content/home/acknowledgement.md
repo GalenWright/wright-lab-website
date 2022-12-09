@@ -18,4 +18,5 @@ design:
 ---
 
 <br>
+
 *Our research group is located on the original lands of Anishinaabeg, Cree, Oji-Cree, Dakota and Dene peoples, and on the homeland of the Métis Nation. We respect the Treaties that were made on these territories, we acknowledge the harms and mistakes of the past, and we dedicate ourselves to moving forward in partnership with Indigenous communities in a spirit of reconciliation and collaboration.*

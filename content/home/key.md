@@ -27,8 +27,6 @@ design:
 - CANVAS
 - Rett syndrome
 
-<br>
-
 **KEY COMPUTATIONAL METHODS**
 - Genomic fine mapping
 - Single-cell sequencing
