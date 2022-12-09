@@ -18,8 +18,6 @@ design:
 
 <br>
 
-*We would like to understand why individuals affected by the same neurological disorder can experience differences in disease severity and onset.* 
-
 Genetic variants that alter the clinical expression of disease-causing mutations are known as genetic modifiers and can help explain these differences. For example, genetic variants in genes from DNA repair pathways influence age-of-onset for several neurological diseases.
 
 We use large-scale bioinformatic analyses to inform functional genomic experiments. This includes using gene editing and human stem-cell-derived neural models to study genetic modifiers of neurological disorders. 
