@@ -15,23 +15,23 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: test@example.org
-  phone: 888 888 88 88
+  email: galen DOT wright AT umanitoba DOT ca
+  phone: +1 (204) 272-3130
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: Kleysen Institute for Advanced Medicine, 710 William Avenue
+    city: Winnipeg
+    region: MB
+    postcode: 'R3E 0Z3'
+    country: Canada
+    country_code: CA
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+    latitude: '49.904902'
+    longitude: '-97.157972'
+  #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  #office_hours:
+    #- 'Monday 10:00 to 13:00'
+    #- 'Wednesday 09:00 to 10:00'
+  #appointment_url: 'https://calendly.com'
   #contact_links:
   #  - icon: comments
   #    icon_pack: fas
@@ -39,16 +39,16 @@ content:
   #    link: 'https://discourse.gohugo.io'
 
   # Automatically link email and phone or display as text?
-  autolink: true
+  autolink: false
 
   # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
+  #form:
+    #provider: netlify
+    #formspree:
+      #id:
+    #netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      #captcha: false
 
 design:
   columns: '1'
