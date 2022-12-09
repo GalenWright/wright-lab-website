@@ -5,7 +5,7 @@
 
 widget: hero
 headless: true # This file represents a page section.
-weight: 15 # Order that this section will appear.
+weight: 30 # Order that this section will appear.
 title:
 hero_media:
 design:
@@ -26,6 +26,8 @@ design:
 - Huntington disease
 - CANVAS
 - Rett syndrome
+
+<br>
 
 **KEY COMPUTATIONAL METHODS**
 - Genomic fine mapping
