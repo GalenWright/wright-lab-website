@@ -21,7 +21,7 @@ organizations:
 #  - name: ENRRICH Theme, CHRIM
 #  url: "https://www.enrrichresearch.ca/"
 # Short bio (displayed in user profile at end of posts)
-bio: I am a MSc student in the department of Pharmacology at the University of Manitoba.  For my MSc project, I am focusing on DNA repair in the neurodevelopmental disorder, Rett syndrome. I recently graduated from the University of Winnipeg with a B.Sc. (Hons.) in Neuroscience. In my undergraduate thesis I investigated hypothalamic inflammation in aging and Alzheimer’s disease. While I am broadly interested in molecular biology, some specific research interests include neurodegenerative diseases, neurogenomics and precision medicine.
+bio: 
 
 # List each interest with a dash
 interests:
@@ -61,3 +61,5 @@ user_groups:
 - Grad Students
 
 ---
+
+I am a MSc student in the department of Pharmacology at the University of Manitoba.  For my MSc project, I am focusing on DNA repair in the neurodevelopmental disorder, Rett syndrome. I recently graduated from the University of Winnipeg with a B.Sc. (Hons.) in Neuroscience. In my undergraduate thesis I investigated hypothalamic inflammation in aging and Alzheimer’s disease. While I am broadly interested in molecular biology, some specific research interests include neurodegenerative diseases, neurogenomics and precision medicine.
