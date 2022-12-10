@@ -27,13 +27,17 @@ bio:
 interests:
 - Neurodegenerative disease
 - Neurogenomics 
-- Precision medicine.
+- Precision medicine
 
 education:
   courses:
   - course: Title course 1
     institution: Name of Institution
     year: 2012
+    
+hobbies:
+- Cooking
+- Aerial fitness
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
