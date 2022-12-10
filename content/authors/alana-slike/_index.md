@@ -10,23 +10,24 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: M.Sc. student
+role: M.Sc. Student
 
 # Organizations/Affiliations
 organizations:
 - name: Pharmacology and Therapeutics, University of Manitoba
   url: "https://umanitoba.ca/medicine/department-pharmacology-and-therapeutics"
-#- name: Manitoba Neuroscience Network
- # url: "https://manitobaneuroscience.ca/"
-#  - name: ENRRICH Theme, CHRIM
-#  url: "https://www.enrrichresearch.ca/"
+- name: Manitoba Neuroscience Network
+  url: "https://manitobaneuroscience.ca/"
+- name: ENRRICH Theme, CHRIM
+  url: "https://www.enrrichresearch.ca/"
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- Neurodegenerative disease
+- Neurogenomics 
+- Precision medicine.
 
 education:
   courses:
