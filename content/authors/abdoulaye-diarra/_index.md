@@ -18,8 +18,6 @@ organizations:
   url: "https://umanitoba.ca/medicine/department-pharmacology-and-therapeutics"
 - name: Manitoba Neuroscience Network
   url: "https://manitobaneuroscience.ca/"
-- name: ENRRICH Theme, CHRIM
-  url: "https://www.enrrichresearch.ca/"
   
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -44,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:xxx@myumanitoba.ca"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:diarraa@myumanitoba.ca"  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/USERNAME
