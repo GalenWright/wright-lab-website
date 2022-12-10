@@ -14,7 +14,7 @@ role: M.Sc. Student
 
 # Organizations/Affiliations
 organizations:
-- name: Pharmacology and Therapeutics, University of Manitoba
+- name: Pharmacology and Therapeutics |University of Manitoba
   url: "https://umanitoba.ca/medicine/department-pharmacology-and-therapeutics"
 - name: Manitoba Neuroscience Network
   url: "https://manitobaneuroscience.ca/"
@@ -31,11 +31,9 @@ interests:
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-
-body: I am a MSc student in the department of Pharmacology at the University of Manitoba.  For my MSc project, I am focusing on DNA repair in the neurodevelopmental disorder, Rett syndrome. I recently graduated from the University of Winnipeg with a B.Sc. (Hons.) in Neuroscience. In my undergraduate thesis I investigated hypothalamic inflammation in aging and Alzheimer’s disease. While I am broadly interested in molecular biology, some specific research interests include neurodegenerative diseases, neurogenomics and precision medicine.
+  - course: Bachelor of Science Honours (Neuroscience) 
+    institution: The University of Winnipeg
+    year: 2021
 
 #hobbies:
 #- Cooking
