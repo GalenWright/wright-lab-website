@@ -34,10 +34,12 @@ education:
   - course: Title course 1
     institution: Name of Institution
     year: 2012
-    
-hobbies:
-- Cooking
-- Aerial fitness
+
+body: I am a MSc student in the department of Pharmacology at the University of Manitoba.  For my MSc project, I am focusing on DNA repair in the neurodevelopmental disorder, Rett syndrome. I recently graduated from the University of Winnipeg with a B.Sc. (Hons.) in Neuroscience. In my undergraduate thesis I investigated hypothalamic inflammation in aging and Alzheimer’s disease. While I am broadly interested in molecular biology, some specific research interests include neurodegenerative diseases, neurogenomics and precision medicine.
+
+#hobbies:
+#- Cooking
+#- Aerial fitness
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
