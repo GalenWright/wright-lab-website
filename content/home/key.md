@@ -11,6 +11,8 @@ hero_media: bison_navy_brown.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
+  spacing:
+    padding: ['20px', '0', '20px', '0']
   # Add custom styles
   css_style:
   css_class:
