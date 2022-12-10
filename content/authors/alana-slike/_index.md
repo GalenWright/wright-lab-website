@@ -16,12 +16,12 @@ role: M.Sc. student
 organizations:
 - name: Pharmacology and Therapeutics, University of Manitoba
   url: "https://umanitoba.ca/medicine/department-pharmacology-and-therapeutics"
-- name: Manitoba Neuroscience Network
-  url: "https://manitobaneuroscience.ca/"
-  - name: ENRRICH Theme, CHRIM
-  url: "https://www.enrrichresearch.ca/"
+#- name: Manitoba Neuroscience Network
+ # url: "https://manitobaneuroscience.ca/"
+#  - name: ENRRICH Theme, CHRIM
+#  url: "https://www.enrrichresearch.ca/"
 # Short bio (displayed in user profile at end of posts)
-bio: I am a MSc student in the department of Pharmacology at the University of Manitoba.  For my MSc project, I am focusing on DNA repair in the neurodevelopmental disorder, Rett syndrome. I recently graduated from the University of Winnipeg with a Bsc (Hons) in Neuroscience. In my undergraduate thesis I investigated hypothalamic inflammation in aging and Alzheimer’s disease. While I am broadly interested in molecular biology, some specific research interests include neurodegenerative diseases, neurogenomics and precision medicine.
+bio: I am a MSc student in the department of Pharmacology at the University of Manitoba.  For my MSc project, I am focusing on DNA repair in the neurodevelopmental disorder, Rett syndrome. I recently graduated from the University of Winnipeg with a B.Sc. (Hons.) in Neuroscience. In my undergraduate thesis I investigated hypothalamic inflammation in aging and Alzheimer’s disease. While I am broadly interested in molecular biology, some specific research interests include neurodegenerative diseases, neurogenomics and precision medicine.
 
 # List each interest with a dash
 interests:
