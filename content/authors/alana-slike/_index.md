@@ -66,7 +66,6 @@ user_groups:
 
 I am an MSc student in the Department of Pharmacology and Therapeutics at the University of Manitoba. For my MSc project, I am focusing on DNA repair in the neurodevelopmental disorder, Rett syndrome. I recently graduated from the University of Winnipeg with a B.Sc. (Hons.) in Neuroscience. In my undergraduate thesis I investigated hypothalamic inflammation in aging and Alzheimer’s disease. While I am broadly interested in molecular biology, some specific research interests include neurodegenerative diseases, neurogenomics and precision medicine.
 
-{style="color: red"}
 **Hobbies:** Cooking and aerial fitness
 
 **Favourite movie:** Harry Potter and the Sorcerer's Stone
