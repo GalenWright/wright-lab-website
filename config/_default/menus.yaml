@@ -13,8 +13,8 @@ main:
   - name: People
     url: people
     weight: 30
-  - name: Events
-    url: event
+  - name: Winnipeg
+    url: winnipeg
     weight: 40
   - name: Publications
     url: publication
