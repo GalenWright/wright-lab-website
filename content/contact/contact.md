@@ -54,7 +54,7 @@ design:
   columns: '1'
 ---
 
-We are always looking for new collaborators and hiring trainess with an interest in human genetics, neurology and neuroscience. Please get in contact with us!
+We are always looking for new collaborators and hiring trainees with an interest in human genetics, neurology and neuroscience. Please get in contact with us!
 
 {{% callout note %}}
 If you interested in joining the lab as a trainee, please send an email to Galen (Subject: Wright lab trainee application) with the following information:
