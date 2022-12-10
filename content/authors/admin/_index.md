@@ -16,9 +16,6 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.za/citations?hl=en&user=mv5MyEsAAAAJ&view_op=list_works&sortby=pubdate
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/GalenWright
   - icon: cv
     icon_pack: ai
     link: https://www.dropbox.com/s/na57zimsxk55wzi/GalenWrightCV.pdf?dl=0
