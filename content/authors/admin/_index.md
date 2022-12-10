@@ -20,14 +20,18 @@ social:
     icon_pack: ai
     link: https://www.dropbox.com/s/na57zimsxk55wzi/GalenWrightCV.pdf?dl=0
 organizations:
-  - name: University of Manitoba
-    url: ""
+- name: Pharmacology and Therapeutics, University of Manitoba
+  url: "https://umanitoba.ca/medicine/department-pharmacology-and-therapeutics"
+- name: Manitoba Neuroscience Network
+  url: "https://manitobaneuroscience.ca/"
+- name: ENRRICH Theme, CHRIM
+  url: "https://www.enrrichresearch.ca/"
 education:
   courses:
     - course: PhD in Genetics
       institution: Stellenbosch University
       year: 2012
-    - course: BSc Honours in Genetics
+    - course: B.Sc. Honours in Genetics
       institution: Stellenbosch University
       year: 2006
     - course: BSc Biotechnology
