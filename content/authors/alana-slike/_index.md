@@ -10,15 +10,18 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role:
+role: M.Sc. student
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
-
+- name: Pharmacology and Therapeutics, University of Manitoba
+  url: "https://umanitoba.ca/medicine/department-pharmacology-and-therapeutics"
+- name: Manitoba Neuroscience Network
+  url: "https://manitobaneuroscience.ca/"
+  - name: ENRRICH Theme, CHRIM
+  url: "https://www.enrrichresearch.ca/"
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: I am a MSc student in the department of Pharmacology at the University of Manitoba.  For my MSc project, I am focusing on DNA repair in the neurodevelopmental disorder, Rett syndrome. I recently graduated from the University of Winnipeg with a Bsc (Hons) in Neuroscience. In my undergraduate thesis I investigated hypothalamic inflammation in aging and Alzheimer’s disease. While I am broadly interested in molecular biology, some specific research interests include neurodegenerative diseases, neurogenomics and precision medicine.
 
 # List each interest with a dash
 interests:
@@ -30,9 +33,6 @@ education:
   - course: Title course 1
     institution: Name of Institution
     year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -41,16 +41,8 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/USERNAME
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
-- icon: github
-  icon_pack: fab
-  link: https://github.com/USERNAME
+  link: 'mailto:slikea@myumanitoba.ca'  # For a direct email link, use "mailto:test@example.org".
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
