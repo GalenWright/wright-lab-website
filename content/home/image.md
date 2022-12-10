@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 150
 
-title: Wet lab research at KIAM
+title: 
 subtitle:
 
 design:

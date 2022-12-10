@@ -1,10 +1,10 @@
 ---
 # Display name
-title: "Alana Slike"
+title: "Kevin Lucy Namuli"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "alana-slike"
+- "lucy-namuli"
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,22 +18,21 @@ organizations:
   url: "https://umanitoba.ca/medicine/department-pharmacology-and-therapeutics"
 - name: Manitoba Neuroscience Network
   url: "https://manitobaneuroscience.ca/"
-- name: ENRRICH Theme, CHRIM
-  url: "https://www.enrrichresearch.ca/"
+  
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 # List each interest with a dash
 interests:
+- Bioinformatics 
 - Neurodegenerative disease
-- Neurogenomics 
-- Precision medicine
+- Tropical disease
 
 education:
   courses:
-  - course: B.Sc. Honours in Neuroscience
-    institution: University of Winnipeg
-    year: 2021
+  - course: B.Sc. in Biomedical Engineering
+    institution: Makerere University
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -42,7 +41,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:slikea@myumanitoba.ca'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:namulikl@myumanitoba.ca"  # For a direct email link, use "mailto:test@example.org".
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/USERNAME
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?user=PERSON-ID
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -61,11 +66,9 @@ highlight_name: false
 user_groups:
 - Grad Students
 
-# formatting: https://wowchemy.com/docs/content/writing-markdown-latex/
 ---
+I am an M.Sc. student in the Department of Pharmacology and Therapeutics at the University of Manitoba, focusing on computational biology. My undergraduate training was in Biomedical Engineering. I am passionate about seeing the increased application of bioinformatics in low- and middle-income countries. I am interested in the clinical translation of bioinformatics research through the discovery of novel treatments for diseases like malaria and non-communicable diseases that are overwhelming the already strained healthcare system of resource-constrained countries through the use of bioinformatics tools.
 
-I am an M.Sc. student in the Department of Pharmacology and Therapeutics at the University of Manitoba. For my MSc project, I am focusing on DNA repair in the neurodevelopmental disorder, Rett syndrome. I recently graduated from the University of Winnipeg with a B.Sc. (Hons.) in Neuroscience. My undergraduate thesis investigated hypothalamic inflammation in aging and Alzheimer’s disease. While I am broadly interested in molecular biology, some specific research interests include neurodegenerative diseases, neurogenomics and precision medicine.
+**Hobbies:** Home
 
-**Hobbies:** Cooking and aerial fitness
-
-**Favourite movie:** Harry Potter and the Sorcerer's Stone
+**Favourite movie:** Nature walks, touring, watching movies and sports
