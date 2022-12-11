@@ -44,4 +44,19 @@ user_groups:
 highlight_name: false
 ---
 
-Dr. Wright started as an Assistant Professor at the University of Manitoba in April 2020 and is currently a Canada Research Chair in *Neurogenomics*. He is also a principal investigator at the PrairieNeuro Research Centre in the Health Sciences Centre Winnipeg and a research scientist at the Children’s Hospital Foundation of Manitoba (CHRIM). He completed his Ph.D. in Genetics at Stellenbosch University and received additional training in computational biology at the South African National Bioinformatics Institute. Dr. Wright then conducted a postdoctoral fellowship at the University of British Columbia, where his research investigated drug-induced neurotoxicities and genetic modifiers of Huntington disease.
+I started as an Assistant Professor at the University of Manitoba in April 2020 and am currently a Canada Research Chair in *Neurogenomics*. I am also a principal investigator at the PrairieNeuro Research Centre in the Health Sciences Centre Winnipeg and a research scientist at the Children’s Hospital Foundation of Manitoba (CHRIM). I completed my Ph.D. in Genetics at Stellenbosch University and received additional training in computational biology at the South African National Bioinformatics Institute. I then conducted a postdoctoral fellowship at the University of British Columbia, where my research investigated drug-induced neurotoxicities and genetic modifiers of Huntington disease.
+
+**Select awards:**
+- Tier 2 Canada Research Chair in *Neurogenomics*
+- Carnegie African Diaspora Fellow
+
+**Hobbies:**
+- Fly-fishing
+- Kayak fishing
+- Lego building
+
+**Favourite movies:** 
+- Gremlins
+- Jurassic Park
+
+
