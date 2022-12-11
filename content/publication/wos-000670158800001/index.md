@@ -1,0 +1,74 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: A cross-sectional study of the relationship between CYP2D6 and CYP2C19 variations
+  and depression symptoms, for women taking SSRIs during pregnancy
+subtitle: ''
+summary: ''
+authors:
+- Catriona Hippman
+- Caitlin Slomp
+- Emily Morris
+- Rolan Batallones
+- Angela Inglis
+- Prescilla Carrion
+- Ursula Brain
+- Michelle Higginson
+- Galen E. B. Wright
+- Lynda G. Balneaves
+- Deirdre Ryan
+- Corey Nislow
+- Colin J. D. Ross
+- Andrea Gaedigk
+- Tim F. Oberlander
+- Jehannine Austin
+tags:
+- Depression; Pregnancy; Pharmacogenetics; Treatment; SSRI
+categories: []
+date: '2022-04-01'
+lastmod: 2022-12-11T16:52:11-06:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2022-12-11T22:52:11.520801Z'
+publication_types:
+- '2'
+abstract: 'Depression during pregnancy affects 10-15% of women, and 5% of women take
+  antidepressants during pregnancy. Clinical guidelines provide recommendations for
+  selective serotonin reuptake inhibitor (SSRI) drug choice and dose based on CYP2D6
+  and CYP2C19 genotype; however, they are based on evidence from non-pregnant cohorts.
+  This study aimed to test the hypothesis that women with function-altering variants
+  (increased, decreased, or no function) in these pharmacogenes, taking SSRIs prenatally,
+  would have more depression symptoms than women whose pharmacogenetic variants are
+  associated with normal SSRI metabolism. Comprehensive CYP2D6 and CYP2C19 genotyping
+  using a range of methods, including gene copy number analysis, was performed as
+  secondary analyses on two longitudinal cohorts of pregnant women (N?=?83) taking
+  the SSRIs paroxetine, citalopram, escitalopram, or sertraline. The Kruskal-Wallis
+  test compared mean depression scores across four predicted metabolizer groups: poor
+  (n?=?5), intermediate (n?=?10), normal (n?=?53), and ultrarapid (n?=?15). There
+  were no significant differences between mean depression scores across the four metabolizer
+  groups (H(3)?=?.73, p?=?.87, eta-squared?=?.029, epsilon-squared?=?.0089). This
+  is the first study of the relationship in pregnancy between CYP2C19 pharmacogenetic
+  variations and depression symptoms in the context of SSRI use. Findings from this
+  initial study do not support the clinical use of pharmacogenetic testing for SSRI
+  use during the second or third trimesters of pregnancy, but these findings should
+  be confirmed in larger cohorts. There is an urgent need for further research to
+  clarify the utility of pharmacogenetic testing for pregnant women, especially as
+  companies offering direct-to-consumer genetic testing expand their marketing efforts.'
+publication: '*ARCHIVES OF WOMENS MENTAL HEALTH*'
+doi: 10.1007/s00737-021-01149-w
+---
