@@ -56,4 +56,4 @@ I started as an Assistant Professor at the University of Manitoba in April 2020 
 
 **Favourite movies:** 
 - Gremlins
-- Jurassic Park
+- Jurassic Park 
