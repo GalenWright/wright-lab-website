@@ -51,8 +51,7 @@ I started as an Assistant Professor at the University of Manitoba in April 2020 
 - Carnegie African Diaspora Fellow
 
 **Hobbies:**
-- Fly-fishing
-- Kayak fishing
+- Fly fishing and kayak fishing
 - Lego building
 
 **Favourite movies:** 

@@ -7,10 +7,13 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 10
+weight: 20
 
 title: Contact
 subtitle:
+
+spacing:
+    padding: ['20px', '0', '20px', '0']
 
 content:
   # Contact (edit or remove options as required)
@@ -54,11 +57,4 @@ design:
   columns: '1'
 ---
 
-We are always looking for new collaborators and hiring trainees with an interest in human genetics, neurology and neuroscience. Please get in contact with us!
 
-{{% callout note %}}
-If you interested in joining the lab as a trainee, please send an email to Galen (Subject: Wright lab trainee application) with the following information:
-- 1-2 page cover letter stating *why* you are interested in joining the group 
-- Unofficial transcripts
-- Curriculum Vitae 
-{{% /callout %}}
