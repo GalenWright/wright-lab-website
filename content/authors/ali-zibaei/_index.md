@@ -1,39 +1,35 @@
 ---
 # Display name
-title: "Paris Musaphir"
+title: "Ali Zibaei"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "paris-musaphir"
+- "ali-zibaei"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: M.Sc. Student
+role: M.Sc. Student (co-supervised)
 
 # Organizations/Affiliations
 organizations:
-- name: Pharmacology and Therapeutics, University of Manitoba
-  url: "https://umanitoba.ca/medicine/department-pharmacology-and-therapeutics"
-- name: Manitoba Neuroscience Network
-  url: "https://manitobaneuroscience.ca/"
-- name: ENRRICH Theme, CHRIM
-  url: "https://www.enrrichresearch.ca/"
+- name: College of Pharmacy, University of Manitoba
+  url: "https://umanitoba.ca/pharmacy/"
+
   
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 # List each interest with a dash
-interests:
-- Genomics
-- Neurodevelopmental disorders
-- Ovarian cancer
+#interests:
+#- Interest 1
+#- Interest 2
 
 education:
   courses:
-  - course: B.Sc. Honours in Genetics
-    institution: University of Manitoba
+  - course: B.Sc. in Microbiology
+    institution: Islamic Azad University of Rasht,
     year: 2021
 
 # Social/Academic Networking
@@ -43,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:musaphip@myumanitoba.ca"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:zibaeisa@myumanitoba.ca"  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/USERNAME
@@ -66,20 +62,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research Team
+- Co-supervised Team
 
 ---
-I am an M.Sc. student in the Department of Pharmacology and Therapeutics at the University of Manitoba. Research interests include neuroscience. 
-
-**Awards/fellowships:**
-- University of Manitoba Graduate Fellowship
-
-**Hobbies:**
-- Snowboarding 
-- Surfing
-- Baking
-- Reading
-- Pilates
-
-**Favourite movie:**
-- Notting Hill
+Under construction...
