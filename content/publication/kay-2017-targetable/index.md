@@ -10,7 +10,7 @@ authors:
 - Indira Tirado-Hurtado
 - Mario Cornejo-Olivas
 - Jennifer A Collins
-- Galen Wright
+- Galen EB Wright
 - Miguel Inca-Martinez
 - Diego Veliz-Otani
 - Maria E Ketelaar
