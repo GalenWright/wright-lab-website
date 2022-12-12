@@ -48,9 +48,9 @@ social:
   - icon: twitter
     icon_pack: fab
     link:  https://twitter.com/GalenWright
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.za/citations?user=mv5MyEsAAAAJ
+#  - icon: google-scholar
+#    icon_pack: ai
+#    link: https://scholar.google.co.za/citations?user=mv5MyEsAAAAJ
 #  - icon: github
 #    icon_pack: fab
 #    link: https://github.com/galenwright
