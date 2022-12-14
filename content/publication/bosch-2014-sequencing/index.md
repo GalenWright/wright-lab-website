@@ -11,7 +11,7 @@ authors:
 - Jean Jacques N Noubiap
 - Collet Dandara
 - Nomlindo Makubalo
-- Galen EB Wright
+- Galen Wright
 - Jean-Baka Domelevo Entfellner
 - Nicki Tiffin
 - Ambroise Wonkam

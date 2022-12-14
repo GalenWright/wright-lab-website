@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Galen Wright
+title: Galen Wright
 
 # Is this the primary user of the site?
 superuser: true
