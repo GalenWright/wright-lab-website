@@ -69,14 +69,8 @@ user_groups:
 ---
 I am an M.Sc. student in the Department of Pharmacology and Therapeutics at the University of Manitoba, focusing on computational biology. My undergraduate training was in Biomedical Engineering. I am passionate about seeing the increased application of bioinformatics in low- and middle-income countries. I am interested in the clinical translation of bioinformatics research through the discovery of novel treatments for diseases like malaria and non-communicable diseases that are overwhelming the already strained healthcare system of resource-constrained countries through the use of bioinformatics tools.
 
-**Awards/fellowships:**
-- Graduate Enhancement of Tri-Agency Stipends (GETS) Program Award
+**Awards/fellowships:** Graduate Enhancement of Tri-Agency Stipends (GETS) Program Award
 
-**Hobbies:**
-- Nature walks
-- Touring 
-- Watching movies 
-- Sports
+**Hobbies:** Home
 
-**Favourite movie:** 
-- Home 
+**Favourite movie:** Nature walks, touring, watching movies and sports

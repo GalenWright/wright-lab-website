@@ -70,13 +70,8 @@ user_groups:
 ---
 Originally from Mali, I arrived in Canada in 2013 and completed a B.Sc. degree in Microbiology and Biochemistry with Honours from the Université de Saint-Boniface (2018). During my B.Sc., I met different co-op research appointments; the first was at JC Wilt Infectious Diseases Research Centre (2016), working on new techniques to detect HIV proteins. My second co-op was at the Saint Boniface Hospital Research Centre (2017), investigating the growth of dorsal root ganglion neurite outgrowth in the presence of forskolin. For further improvement, I completed an M.Sc. in Immunology (2020) with a thesis entitled *Modulatory effect of Chromofungin on Apoptosis and ER stress pathways.* My project was to understand the impact of Chromofungin, a chromogranin A-derived peptide, during the development of gut inflammation using a murine model of colitis on endoplasmic stress and apoptosis. I have received several awards, including Mindel & Tom Olenick Research Studentships in Medicine. I am interested in pharmacology reason why I joined the Wright Lab.
 
-**Awards/fellowships:** 
-- Mindel & Tom Olenick Research Studentships in Medicine
+**Awards/fellowships:** Mindel & Tom Olenick Research Studentships in Medicine
 
-**Hobbies:** 
-- Soccer 
-- Gymnastics 
-- Learning about new cultures and languages
+**Hobbies:** Soccer, gymnastics and learning about new cultures and languages
 
-**Favourite movie:**
-- Home Alone
+**Favourite movie:** Home Alone

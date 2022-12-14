@@ -71,15 +71,8 @@ user_groups:
 ---
 I am an M.Sc. student in the Department of Pharmacology and Therapeutics at the University of Manitoba. Research interests include neuroscience. 
 
-**Awards/fellowships:**
-- University of Manitoba Graduate Fellowship
+**Awards/fellowships:** University of Manitoba Graduate Fellowship
 
-**Hobbies:**
-- Snowboarding 
-- Surfing
-- Baking
-- Reading
-- Pilates
+**Hobbies:** Snowboarding, surfing, baking, reading, and pilates
 
-**Favourite movie:**
-- Notting Hill
+**Favourite movie:** Notting Hill
