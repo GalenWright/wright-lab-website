@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Liezl Koen
 - Dana JH Niehaus
-- Galen Wright
+- Galen EB Wright
 - Louise Warnich
 - Greetje De Jong
 - Robin A Emsley
