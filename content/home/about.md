@@ -16,9 +16,14 @@ design:
   css_class:
 ---
 
-Genetic variants that alter the clinical expression of disease-causing mutations are known as genetic modifiers and can help explain these differences. For example, genetic variants in genes from DNA repair pathways influence age-of-onset for several neurological diseases.
+Genetic variants that alter the clinical expression of disease-causing mutations are known as genetic modifiers and can help explain differences in disease outcomes. For example, genetic variants in genes from DNA repair pathways influence age-of-onset for several neurological diseases.
 
 We use large-scale bioinformatic analyses to inform functional genomic experiments. This includes using gene editing and human stem-cell-derived neural models to study genetic modifiers of neurological disorders. 
 
-Insights obtained from our research can lead to a better understanding of human biology, the identification of novel therapeutic targets, and improved risk prediction models.
+Insights obtained from our research can lead to a better understanding of human biology, the identification of therapeutic targets, and improved risk prediction models.
 
+<br>
+
+**KEY PROJECTS**
+- Genetic modifiers of neurological disorders
+- Genomics of DNA repair in the brain

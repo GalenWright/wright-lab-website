@@ -26,6 +26,13 @@ We are always looking for new collaborators and hiring trainees with interest in
  - Bioinformatics (bash, {{< icon name="r-project" pack="fab" >}}, etc.)
  - Stem cells  
 
+{{% callout note %}}
+If you interested in joining the lab as a trainee, please [email](mailto:galen.wright@umanitoba.ca?subject=Wright%20Lab%20Trainee%20Application) Galen the following:
+- **Subject: Wright lab trainee application**
+- One to two page cover letter stating *why* you are interested in joining the group 
+- Unofficial transcripts
+- Curriculum Vitae 
+{{% /callout %}}
 
 
     
