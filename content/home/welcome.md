@@ -34,7 +34,7 @@ cta_alt:
 
 <br>
 
-Welcome to the **Wright Lab**! We are a human genetics research group at the University of Manitoba that uses genomics to understand the brain in both health and disease.
+Welcome to the **Wright Lab**! We are a human genetics research group at the University of Manitoba that uses genomics to understand the brain in health and disease.
 
 <span style="color:lightblue">*We would like to understand why individuals affected by the same neurological disorder can experience differences in disease severity and onset.*</span>
 

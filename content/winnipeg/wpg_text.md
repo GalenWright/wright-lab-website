@@ -13,7 +13,7 @@ weight: 11
 title: Winnipeg
 
 # Section subtitle
-subtitle: One Great City!
+subtitle: <i>One Great City!</i>
 
 # Section design
 design:
