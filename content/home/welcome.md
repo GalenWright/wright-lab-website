@@ -7,8 +7,8 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  Wright Lab:  
-    Neurogenomics Research
+  <span style="color:#F2A900">**Wright Lab**</span>  
+    <span style="color:#00A3E0">Neurogenomics Research</span>
 hero_media: lab_logo.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -34,7 +34,7 @@ cta_alt:
 
 <br>
 
-Welcome to the **Wright Lab**! We are a human genetics research group at the University of Manitoba that uses genomics to understand the brain in health and disease.
+Hello there, welcome to the <span style="color:#F2A900">**Wright Lab**</span>! We are a human genetics research group at the University of Manitoba that uses genomics to understand the brain in health and disease.
 
 <span style="color:lightblue">*We would like to understand why individuals affected by the same neurological disorder can experience differences in disease severity and onset.*</span>
 

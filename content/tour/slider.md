@@ -22,26 +22,26 @@ content:
         position: right
         color: '#666'
         brightness: 0.7
-        media: coders.jpg
-    - title: Lunch & Learn ☕️
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
+        media: welcome.png
+    - title: New publication alert️!
+      content: "We're excited to share the lab's first paper was published in *Cell Death Discovery*! This study, led by graduate student [Alana Slike](/author/alana-slike/), highlights the beneficial neurogenic role of huntingtin in modifying neurobiological traits in humans (outside of Huntington disease), pointing to roles for the gene in longevity and aging. [Read more here](https://www.nature.com/articles/s41420-022-01114-1)"
       align: left
       background:
         position: center
-        color: '#555'
-        brightness: 0.7
-        media: contact.jpg
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
-      align: right
+        color: '#385E9D'
+        brightness: 0.2
+        media: slike_cdd_pub.png
+    - title: Lab values
+      content: 'In this lab, we believe'
+      align: left
       background:
         position: center
         color: '#333'
-        brightness: 0.5
-        media: welcome.jpg
-      link:
-        icon: graduation-cap
-        icon_pack: fas
-        text: Join Us
-        url: ../contact/
+        brightness: 0.8
+        media: values.png
+#link:
+#  icon: graduation-cap
+#  icon_pack: fas
+#  text: Join Us
+#  url: ../contact/
 ---

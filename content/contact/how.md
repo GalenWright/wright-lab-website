@@ -20,19 +20,26 @@ design:
 
 <br>
 
-We are always looking for new collaborators and hiring trainees with interest in neurogenomics - please get in contact with us! Backgrounds in any of the following areas are advantagous:
+<span style="color:#F2A900">We are always looking to hire trainees with an interest in *neurogenomics* </span>- please get in contact with us!
+
+{{% callout note %}}
+Prospective trainees, please [email](mailto:galen.wright@umanitoba.ca?subject=Wright%20Lab%20Trainee%20Application) Galen the following:
+- **Subject: Wright lab trainee application**
+- A one to two page cover letter stating ***why*** you are interested in joining the group 
+- A copy of your unofficial transcripts
+- A copy of your curriculum vitae 
+{{% /callout %}}
+
+Backgrounds in any of the following areas are advantageous:
  - Human genetics
  - Neuroscience
  - Bioinformatics (bash, {{< icon name="r-project" pack="fab" >}}, etc.)
  - Stem cells  
 
-{{% callout note %}}
-If you interested in joining the lab as a trainee, please [email](mailto:galen.wright@umanitoba.ca?subject=Wright%20Lab%20Trainee%20Application) Galen the following:
-- **Subject: Wright lab trainee application**
-- One to two page cover letter stating *why* you are interested in joining the group 
-- Unofficial transcripts
-- Curriculum Vitae 
-{{% /callout %}}
+Graduate students in the <span style="color:#F2A900">Wright Lab</span> can be enrolled in studies through either:
+1. Pharmacology and Therapeutics<br>Program details: [M.Sc.](https://umanitoba.ca/explore/pharmacology-and-therapeutics-msc), [Ph.D.](https://umanitoba.ca/explore/pharmacology-and-therapeutics-phd)
+2. Biochemistry and Medical Genetics<br>Program details: [M.Sc.](https://umanitoba.ca/explore/programs-of-study/biochemistry-and-medical-genetics-msc), [Ph.D.](https://umanitoba.ca/explore/programs-of-study/biochemistry-and-medical-genetics-phd)
+
 
 
     
