@@ -19,8 +19,8 @@ main:
   - name: Publications
     url: publication
     weight: 40
-  - name: How
-    url: how
+  - name: Funding
+    url: funding
     weight: 50
   - name: Winnipeg
     url: winnipeg

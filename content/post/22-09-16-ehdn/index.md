@@ -18,7 +18,7 @@ draft: false
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -27,3 +27,6 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+Galen was invited to present at the [European Huntington's Disease Network (EHDN) 2022 Plenary Meeting](https://ehdn.org/ehdn2022/), in Bologna, Italy. His talk, <i>HD genomic modifiers: emerging biological, clinical and therapeutic insights</i>, was in the New Genetics of HD session and a link to the recording is available below.
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/760234336?h=51f750ef69" width="640" height="360" frameborder="0" allowfullscreen></iframe>
