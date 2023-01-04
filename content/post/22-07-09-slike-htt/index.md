@@ -27,3 +27,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+We're excited to share the lab's first paper was published in *Cell Death Discovery*! This study, led by graduate student [Alana Slike](/author/alana-slike/), highlights the beneficial neurogenic role of huntingtin in modifying neurobiological traits in humans (outside of Huntington disease), pointing to roles for the gene in longevity and aging. [Read more here](https://www.nature.com/articles/s41420-022-01114-1)

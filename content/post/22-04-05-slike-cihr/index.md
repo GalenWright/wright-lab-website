@@ -27,3 +27,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+Congratulations to graduate student, [Alana Slike](/author/alana-slike/), for receiving the prestigous CIHR Canada Graduate Scholarship!

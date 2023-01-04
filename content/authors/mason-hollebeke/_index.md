@@ -66,8 +66,3 @@ user_groups:
 ---
 I am a University of Manitoba Bachelor of Science student working on genetic modifiers of repeat expansion disorders
 
-#**Hobbies:**
-#- xxx
-
-#**Favourite movie:** 
-#- xxx

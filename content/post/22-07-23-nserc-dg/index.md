@@ -27,3 +27,6 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+The lab was awarded an NSERC Discovery Grant entitled, *Genomics of DNA repair in the brain* ($152,500).
+
+The long-term objective of my research program is to understand the fundamental biology of DNA repair in the brain. To elucidate this, I have developed a two-pronged approach that will make use of the following platforms: bioinformatic tools (i.e., computational analyses) and *in vitro* models (i.e., human stem cell-derived neural models).

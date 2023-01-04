@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "New Funding: Research Manitoba New Investigator Grant"
-subtitle: "Identification of causal genetic variants and genes in neuromuscular disorders "
+subtitle: "Identification of causal genetic variants and genes in neuromuscular disorders"
 summary: ""
 authors: []
 tags: []
@@ -27,3 +27,8 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+The group received funding ($130,000) for our new project: <i>Identification of causal genetic variants and genes in neuromuscular disorders</i>. 
+
+We will be using whole genome sequencing paired with gene expression information (RNA-seq) to identify pathogenic mutations in individuals affected by neuromuscular disorders. 
+
+This work is in collaboration with Drs. Patrick Frosk (Clinical Geneticist) and Britt Drögemöller (CRC in <i>Pharamacogenomics and Precision Medicine</i>).

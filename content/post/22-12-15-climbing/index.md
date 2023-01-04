@@ -27,3 +27,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+We had a great year-end lab event last week! The group decided on rock climbing - it was really fun and we had the place to ourselves 🧗‍♀️ Looking forward to more science and collaboration in the New Year!

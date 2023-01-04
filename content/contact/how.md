@@ -20,7 +20,7 @@ design:
 
 <br>
 
-<span style="color:#F2A900">We are always looking to hire trainees with an interest in *neurogenomics* </span>- please get in contact with us!
+<span style="color:#F2A900">We are always looking to hire trainees with an interest in</span> <span style="color:#7BAFD4">*neurogenomics* </span>- please get in contact with us!
 
 {{% callout note %}}
 Prospective trainees, please [email](mailto:galen.wright@umanitoba.ca?subject=Wright%20Lab%20Trainee%20Application) Galen the following:
@@ -40,7 +40,11 @@ Graduate students in the <span style="color:#F2A900">Wright Lab</span> can be en
 1. Pharmacology and Therapeutics<br>Program details: [M.Sc.](https://umanitoba.ca/explore/pharmacology-and-therapeutics-msc), [Ph.D.](https://umanitoba.ca/explore/pharmacology-and-therapeutics-phd)
 2. Biochemistry and Medical Genetics<br>Program details: [M.Sc.](https://umanitoba.ca/explore/programs-of-study/biochemistry-and-medical-genetics-msc), [Ph.D.](https://umanitoba.ca/explore/programs-of-study/biochemistry-and-medical-genetics-phd)
 
+**KEY DATES**
+*Successful applicants will work with Galen to submit with these deadlines. Please provide ample time to allow for this (i.e., more than one month before deadline).*
 
-
-    
-
+| **Term** 	| **Canadian and<br>US deadlines** 	| **International<br>deadlines** 	|
+|:---:	|:---:	|:---:	|
+| **Fall** (September) 	| June 1 	| March 1 	|
+| **Winter** (January) 	| October 1 	| July 1 	|
+| **Summer** (May) 	| February 1 	| November 1 	|

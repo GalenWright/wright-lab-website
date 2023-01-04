@@ -27,6 +27,8 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-The group welcomed two new graduate students to group at the Forks Market!
+The group welcomed two new graduate students to the group at a lab event at the Forks Market!
 - [Lucy Namuli](/author/kevin-lucy-namuli/) will be working on genetic modifiers of repeat expansion disorders using bioinformatic approaches.
 - [Paris Musaphir](/author/paris-musaphir/) will be investigating DNA repair pathway choice as a genetic modifier in Rett syndrome using human stem cells.
+
+We are also thankful to have had two undergraduate students working in the lab over the Summer - [Jerni Stewart](/author/jerni-stewart/) (NSERC USRA student) and [Mason Hollebeke](/author/mason-hollebeke/), thank you for all your hard work!
