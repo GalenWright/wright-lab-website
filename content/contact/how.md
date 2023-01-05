@@ -43,6 +43,7 @@ Graduate students in the <span style="color:#F2A900">Wright Lab</span> can be en
 **KEY DATES**
 *Successful applicants will work with Galen to submit with these deadlines. Please provide ample time to allow for this (i.e., more than one month before deadline).*
 
+
 | **Term** 	| **Canadian and<br>US deadlines** 	| **International<br>deadlines** 	|
 |:---:	|:---:	|:---:	|
 | **Fall** (September) 	| June 1 	| March 1 	|
