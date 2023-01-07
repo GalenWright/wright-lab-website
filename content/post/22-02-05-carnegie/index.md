@@ -27,3 +27,6 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+The Wright and Drögemöller labs were awarded Carnegie African Diaspora Fellowships to visit collaborators (Drs. Soraya Bardien, Nathaniel McGregor and Shahida Moosa) at Stellenbosch University for three weeks in February 2022. The trip to Stellenbosch, South Africa 🇿🇦 included a two day genomics workshop that was attended by over 20 participants. This event provided an overview of current genomic analyses and resources of relevance to pharmacogenomics and precision medicine. 
+
+Read more about the original funding announcement in [UM Today](https://news.umanitoba.ca/two-new-canada-research-chairs-awarded-prestigious-carnegie-african-diaspora-fellowships/).

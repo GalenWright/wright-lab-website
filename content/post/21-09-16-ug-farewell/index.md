@@ -27,3 +27,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+The Summer of 2021 has flown by! We celebrated the progress of our undergrad researchers by having them present brief research presentations! Farewell [Gabi](/author/gabrielle-clark/) and [Claudia](/author/claudia-pfeifer/), we wish you the best for the future!

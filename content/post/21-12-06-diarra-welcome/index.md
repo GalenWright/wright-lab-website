@@ -27,3 +27,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+Welcome, [Abdoulaye Diarra](/author/abdoulaye-diarra/), who is joining the team as a full-time research technician! Abdoulaye recently completed their M.Sc. in *Immunology* (2020) from the University of Manitoba (Ghia lab). We look forward to working with them!

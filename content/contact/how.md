@@ -29,23 +29,27 @@ Prospective trainees, please [email](mailto:galen.wright@umanitoba.ca?subject=Wr
 - A copy of your unofficial transcripts
 - A copy of your curriculum vitae 
 {{% /callout %}}
-
 Backgrounds in any of the following areas are advantageous:
  - Human genetics
  - Neuroscience
- - Bioinformatics (bash, {{< icon name="r-project" pack="fab" >}}, etc.)
+ - Bioinformatics ({{< icon name="terminal" pack="fas" >}} bash, {{< icon name="r-project" pack="fab" >}}, etc.)
  - Stem cells  
-
 Graduate students in the <span style="color:#F2A900">Wright Lab</span> can be enrolled in studies through either:
 1. Pharmacology and Therapeutics<br>Program details: [M.Sc.](https://umanitoba.ca/explore/pharmacology-and-therapeutics-msc), [Ph.D.](https://umanitoba.ca/explore/pharmacology-and-therapeutics-phd)
 2. Biochemistry and Medical Genetics<br>Program details: [M.Sc.](https://umanitoba.ca/explore/programs-of-study/biochemistry-and-medical-genetics-msc), [Ph.D.](https://umanitoba.ca/explore/programs-of-study/biochemistry-and-medical-genetics-phd)
-
+{{% callout warning %}}
+Failure to follow the instructions mentioned above may result in your application not being processed.
+{{% /callout %}}
 **KEY DATES**
 *Successful applicants will work with Galen to submit with these deadlines. Please provide ample time to allow for this (i.e., more than one month before deadline).*
 
 
-| **Term** 	| **Canadian and<br>US deadlines** 	| **International<br>deadlines** 	|
+| **Term** 	| **Canadian/ <br>US deadlines** 	| **International<br>deadlines** 	|
 |:---:	|:---:	|:---:	|
 | **Fall** (September) 	| June 1 	| March 1 	|
 | **Winter** (January) 	| October 1 	| July 1 	|
 | **Summer** (May) 	| February 1 	| November 1 	|
+
+{{% callout note %}}
+International applicants, please use this University of Manitoba resource ([International Degree Equivalency](https://umanitoba.ca/faculties/graduate_studies/admissions/equivalencies.html)), to convert your degree(s)/grades to the University of Manitoba scale.
+{{% /callout %}}
