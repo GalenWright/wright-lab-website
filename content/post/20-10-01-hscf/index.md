@@ -29,5 +29,7 @@ projects: []
 ---
 The group was awarded our first grant! We are thankful for the support of the Health Sciences Centre Foundation (HSCF), who funded our General Operating Grant, *Fine-mapping of neurodegenerative disorder genomic risk loci for the prioritization of novel drug targets* ($70,000). 
 
-Learn more about this project on [HSCF News](https://www.hscfoundation.mb.ca/uncategorized/hsc-foundation-awards-over-300000-to-health-care-thought-leaders/). Galen was also interviewed by Global News Morning - [watch the interview here](https://globalnews.ca/video/7401025/2020-hsc-millionaire-lottery-funding-research).
+Learn more about this project on [HSCF News](https://www.hscfoundation.mb.ca/uncategorized/hsc-foundation-awards-over-300000-to-health-care-thought-leaders/). Galen was also interviewed by Global News Morning - watch the interview below!
+
+<iframe src="https://globalnews.ca/video/embed/7401025/" width="670" height="372" frameborder="0" allowfullscreen scrolling="no"></iframe>
 
