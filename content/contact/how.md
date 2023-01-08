@@ -37,6 +37,9 @@ Backgrounds in any of the following areas are advantageous:
 Graduate students in the <span style="color:#F2A900">Wright Lab</span> can be enrolled in studies through either:
 1. Pharmacology and Therapeutics<br>Program details: [M.Sc.](https://umanitoba.ca/explore/pharmacology-and-therapeutics-msc), [Ph.D.](https://umanitoba.ca/explore/pharmacology-and-therapeutics-phd)
 2. Biochemistry and Medical Genetics<br>Program details: [M.Sc.](https://umanitoba.ca/explore/programs-of-study/biochemistry-and-medical-genetics-msc), [Ph.D.](https://umanitoba.ca/explore/programs-of-study/biochemistry-and-medical-genetics-phd)
+
+The lab will provide successful applicants with a base stipend from research funds. See our [funding page](/funding/#trainee_funding) to see more information regarding trainee funding opportunities.
+
 {{% callout warning %}}
 Failure to follow the instructions mentioned above may result in your application not being processed.
 {{% /callout %}}

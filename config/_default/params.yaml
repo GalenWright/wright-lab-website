@@ -21,7 +21,7 @@ marketing:
     description: 'The Wright Lab is a neurogenomics research group at the University of Manitoba.'
     twitter: 'GalenWright'
   analytics:
-    google_analytics: ''
+    google_analytics: 'UA-61696843-1'
     baidu_tongji: ''
   verification:
     google: ''

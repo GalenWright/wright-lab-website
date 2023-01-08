@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Our funders
+title: 
 subtitle:
 
 design:
@@ -26,4 +26,3 @@ design:
 advanced:
   css_class: fullscreen
 ---
-
