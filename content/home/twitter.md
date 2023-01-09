@@ -9,6 +9,8 @@ design:
   spacing:
     padding: ['20px', '0', '20px', '0']
 ---
+{{< gallery album="lab" >}}
+<br>
 {{% callout note %}}
 If you interested in joining the lab as a trainee, please see key information in our [Contact section](contact).
 {{% /callout %}}
