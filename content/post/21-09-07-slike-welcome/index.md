@@ -27,4 +27,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Welcome to our first graduate student, [Alana Slike](/author/alana-slike/)! Alana completed their B.Sc. (Hons.) in Neuroscience at University of Winnipeg and performed her thesis research work related to aging and Alzheimer’s disease in the Albensi lab at the University of Manitoba.
+Welcome to our first graduate student, [Alana Slike](/author/alana-slike/)! Alana completed their B.Sc. (Hons.) in Neuroscience at University of Winnipeg and performed her thesis research work related to aging and Alzheimer’s disease in the Albensi lab at the University of Manitoba. 

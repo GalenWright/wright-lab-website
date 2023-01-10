@@ -29,4 +29,4 @@ projects: []
 ---
 Galen was awarded a Tier 2 Canada Research Chair in *Neurogenomics* ($600,000)! This postion is federally funded through NSERC and will allow the lab to investigate fundamental processes in the brain using computational and functional genomic approaches. Read more about our research on [UM Today](https://news.umanitoba.ca/meet-galen-wright-the-new-um-canada-research-chair-crc-in-neurogenomics/).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y2vF72pZKww" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y2vF72pZKww" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 

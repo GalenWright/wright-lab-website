@@ -31,4 +31,4 @@ The group received funding ($130,000) for our new project: <i>Identification of 
 
 We will be using whole genome sequencing paired with gene expression information (RNA-seq) to identify pathogenic mutations in individuals affected by neuromuscular disorders. 
 
-This work is in collaboration with Drs. Patrick Frosk (Clinical Geneticist) and Britt Drögemöller (CRC in <i>Pharamacogenomics and Precision Medicine</i>).
+This work is in collaboration with Drs. Patrick Frosk (Clinical Geneticist) and Britt Drögemöller (CRC in <i>Pharamacogenomics and Precision Medicine</i>). 

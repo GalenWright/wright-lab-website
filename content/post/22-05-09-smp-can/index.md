@@ -32,5 +32,5 @@ Galen was one of the CRC delegates at the Science Meets Parliament two-day event
 
 After the event, he presented in the Neurosciences Seminar Series held by the Neurosciences Program at the Ottawa Hospital Research Institute, and the uOttawa Brain and Mind Research Institute.
 
-This was followed by an amazing couple of days at the Canadian Association for Neuroscience 2022 Meeting! Our lab started in April 2020, so this has been our first in person conference. It was nice to meet both new colleagues and talk science in person! Graduate student, [Alana Slike](/author/alana-slike/), did a great job presenting her work
+This was followed by an amazing couple of days at the Canadian Association for Neuroscience 2022 Meeting! Our lab started in April 2020, so this has been our first in person conference. It was nice to meet both new colleagues and talk science in person! Graduate student, [Alana Slike](/author/alana-slike/), did a great job presenting her work! 
 

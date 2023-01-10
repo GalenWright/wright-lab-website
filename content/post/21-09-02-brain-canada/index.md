@@ -27,5 +27,5 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Galen was awarded a [Future Leaders in Canadian Brain Research grant](https://braincanada.ca/news/2020futureleaders/): *Investigation of DNA damage response as a genomic modifier in Rett syndrome* Funded by Brain Canada ($100,000). This work was one of 20 projects funded and will allow the lab to investigate genetic modifiers using human stem cells, CRISPR gene editing and genomics!
+Galen was awarded a [Future Leaders in Canadian Brain Research grant](https://braincanada.ca/news/2020futureleaders/): *Investigation of DNA damage response as a genomic modifier in Rett syndrome* Funded by Brain Canada ($100,000). This work was one of 20 projects funded and will allow the lab to investigate genetic modifiers using human stem cells, CRISPR gene editing and genomics! 
 		

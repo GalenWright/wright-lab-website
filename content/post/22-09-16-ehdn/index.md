@@ -29,4 +29,4 @@ projects: []
 ---
 Galen was invited to present at the [European Huntington's Disease Network (EHDN) 2022 Plenary Meeting](https://ehdn.org/ehdn2022/), in Bologna, Italy. His talk, <i>HD genomic modifiers: emerging biological, clinical and therapeutic insights</i>, was in the New Genetics of HD session and a link to the recording is available below. He was also interviewed on [*Genomic modifiers in Huntington’s disease*](https://medically.roche.com/ca/en/neuroscience/diseases/huntington-s-disease/materials/ehdn_2022_roche_wrightv1.html) by Roche Medically.
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/760234336?h=51f750ef69" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/760234336?h=51f750ef69" width="640" height="360" frameborder="0" allowfullscreen></iframe> 

@@ -31,5 +31,5 @@ The group was awarded our first grant! We are thankful for the support of the He
 
 Learn more about this project on [HSCF News](https://www.hscfoundation.mb.ca/uncategorized/hsc-foundation-awards-over-300000-to-health-care-thought-leaders/). Galen was also interviewed by Global News Morning - watch the interview below!
 
-<iframe src="https://globalnews.ca/video/embed/7401025/" width="670" height="372" frameborder="0" allowfullscreen scrolling="no"></iframe>
+<iframe src="https://globalnews.ca/video/embed/7401025/" width="670" height="372" frameborder="0" allowfullscreen scrolling="no"></iframe> 
 

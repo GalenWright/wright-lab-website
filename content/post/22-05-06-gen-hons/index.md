@@ -27,4 +27,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Congratulations to both [Dhruv Raolji](/author/dhruv-raolji/) (Wright Lab) and [Bilal Cheema](/author/bilal-cheema/) (co-supervised with the Drögemöller Lab) who successfully completed their B.Sc. Genetics Honors projects today. Great presentations, it's amazing to see how far your projects have come over the last couple of months!
+Congratulations to both [Dhruv Raolji](/author/dhruv-raolji/) (Wright Lab) and [Bilal Cheema](/author/bilal-cheema/) (co-supervised with the Drögemöller Lab) who successfully completed their B.Sc. Genetics Honors projects today. Great presentations, it's amazing to see how far your projects have come over the last couple of months! 
