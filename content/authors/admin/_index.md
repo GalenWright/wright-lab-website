@@ -6,7 +6,7 @@ title: Dr. Galen Wright
 superuser: true
 
 # Role/position
-role: Assistant Professor | Canada Research Chair in Neurogeniomics
+role: Assistant Professor | Canada Research Chair in Neurogenomics
 
 # Organizations/Affiliations
 organizations:
