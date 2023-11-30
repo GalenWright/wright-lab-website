@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: M.Sc. Student
+role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
@@ -64,12 +64,13 @@ user_groups:
 # formatting: https://wowchemy.com/docs/content/writing-markdown-latex/
 ---
 
-I am an M.Sc. student in the Department of Pharmacology and Therapeutics at the University of Manitoba. For my MSc project, I am focusing on DNA repair in the neurodevelopmental disorder, Rett syndrome. I recently graduated from the University of Winnipeg with a B.Sc. (Hons.) in Neuroscience. My undergraduate thesis investigated hypothalamic inflammation in aging and Alzheimer’s disease. While I am broadly interested in molecular biology, some specific research interests include neurodegenerative diseases, neurogenomics and precision medicine.
+I am a Ph.D. student in the Department of Pharmacology and Therapeutics at the University of Manitoba. For my project, I am focusing on DNA repair in the neurodevelopmental disorder, Rett syndrome. I recently graduated from the University of Winnipeg with a B.Sc. (Hons.) in Neuroscience. My undergraduate thesis investigated hypothalamic inflammation in aging and Alzheimer’s disease. While I am broadly interested in molecular biology, some specific research interests include neurodegenerative diseases, neurogenomics and precision medicine.
 
 **Awards/fellowships:**
 - University of Manitoba Graduate Studentship
 - Research Manitoba Master's Studentship (*offered*) 
 - CIHR Canada Graduate Scholarships – Master's Studentship
+- Clive Greenway Presentation Award
 
 **Hobbies:**
 - Cooking

@@ -1,10 +1,10 @@
 ---
 # Display name
-title: "Mason Hollebeke"
+title: "Alexandria Martin"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "mason-hollebeke"
+- "alexandria-martin"
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,20 +14,23 @@ role: Undergrad Student
 
 # Organizations/Affiliations
 organizations:
-- name: Pharmacology and Therapeutics, University of Manitoba
-  url: "https://umanitoba.ca/medicine/department-pharmacology-and-therapeutics"
+- name: Biochemistry and Medical Genetics, University of Manitoba
+  url: "https://umanitoba.ca/medicine/medicine/department-biochemistry-and-medical-genetics"
+
   
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 # List each interest with a dash
 interests:
-- Neurological disorders
-- Child health
+- Genomics
+- Prenatal genetic screening
+- Computational biology and bioinformatics
+- Neurodegenerative disease
 
 education:
   courses:
-  - course: B.H.Sc. with concentration in Health Promotion and Education
+  - course: B.Sc. in Biological Sciences (Cell, Molecular, and Developmental Biology Concentration)
     institution: University of Manitoba
     year: In progress
 
@@ -38,10 +41,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:hollebem@myumanitoba.ca"  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/USERNAME
+  link: "mailto:marti29@myumanitoba.ca"  # For a direct email link, use "mailto:test@example.org".
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/lexie_martiin
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=PERSON-ID
@@ -61,19 +64,20 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Co-supervised Alumni
 
 ---
-I am a third-year undergraduate student in the Rady Faculty of Health Sciences at the University of Manitoba. Over the last two summers, I have been working on genetic modifiers of repeat expansion disorders and the genomic characteristics of genes associated with autism spectrum disorders. I am broadly interested in neurodevelopment in child health.
+I am a current B.Sc. undergraduate student in Biological Sciences (Cell, Molecular, and Developmental Biology Concentration) at the University of Manitoba. For my project, I will be analyzing properties of genes implicated in pediatric, adult, and diverse-onset neuromuscular disorders through a co-supervision between the Wright and Drögemöller Labs. I am particularly interested in research involving computational biology and bioinformatics approaches, molecular and developmental biology, genomics, genetic testing and gene therapy, and neurodegenerative diseases.
 
 **Awards/fellowships:**
-- ENRRICH Summer Studentship (2023)
-- University of Manitoba Undergraduate Research Award (2023)
+- NSERC Undergraduate Student Research Award (2023)
+- CHRIM Undergraduate Summer Studentship (2023)
 
 **Hobbies:**
-- Fitness
-- Ringette
-- Yoga
+- Digital art
+- Swimming
+- Dancing
+- Video games
 
-**Favourite movie:**
-- Legally Blonde
+**Favourite movie:** 
+- Howl's Moving Castle

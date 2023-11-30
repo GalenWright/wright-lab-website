@@ -24,11 +24,11 @@ bio:
 #- Interest 1
 #- Interest 2
 
-#education:
-#  courses:
-#  - course: B.Sc. in x
-#    institution: University of x
-#    year: 202x
+education:
+  courses:
+  - course: B.Sc. Honours in Genetics
+    institution: University of Manitoba
+    year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -60,7 +60,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Co-supervised Team
+- Co-supervised Alumni
 
 ---
-Under construction...
+Mahkham was B.Sc. Honours (Genetics) Student working in the [Marcogliese Lab](https://www.marcoglieselab.com/), studying genetic modifiers of Rett syndrome using a fly model. They were co-supervised by the Wright Lab.

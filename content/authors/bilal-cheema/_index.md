@@ -60,7 +60,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Co-supervised Alumni
 
 ---
 I completed a Genetics Honours project in the Drögemöller Lab (co-supervised by the Wright Lab), which focused on determining how the landscape of human genomics research is changing and if the global research community adequately represented in this research.

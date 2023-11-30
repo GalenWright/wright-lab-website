@@ -60,7 +60,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Co-supervised Alumni
 
 ---
 I completed a Mitacs-Globalink UK-Canada PhD exchange in the Drögemöller Lab (co-supervised by the Wright Lab), which focused on performing a systematic review and analysis of the use of polygenic scores in pharmacogenomics.

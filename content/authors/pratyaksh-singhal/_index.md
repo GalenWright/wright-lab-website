@@ -1,47 +1,38 @@
 ---
 # Display name
-title: "Niel Olivier"
+title: "Pratyaksh Singhal"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "niel-olivier"
+- "pratyaksh-singhal"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Mitacs-Globalink South Africa-Canada visiting Postdoctoral Research Fellow (co-supervised)
+role: Co-Op Student
 
 # Organizations/Affiliations
 organizations:
+- name: Pharmacology and Therapeutics, University of Manitoba
+  url: "https://umanitoba.ca/medicine/department-pharmacology-and-therapeutics"
+- name: Manitoba Neuroscience Network
+  url: "https://manitobaneuroscience.ca/"
   
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 # List each interest with a dash
 interests:
-- Cancer
-- Immunity
-- Pharmacogenetics
-- Personalized medicine
+- Human genetics
+- Drug effects on genes
+- Treatments and therapeutics
 
 education:
   courses:
-  - course: Ph.D. in Physiological Sciences
-    institution: Stellenbosch University
-    year: 2021
-
-  - course: M.Sc. in Biochemistry
-    institution: Stellenbosch University
-    year: 2016
-
-  - course: B.Sc. (Hons.) in Biochemistry
-    institution: Stellenbosch University
-    year: 2014
-
-  - course: B.Sc. Molecular Biology and Biotechnology
-    institution: Stellenbosch University
-    year: 2013
+  - course: B.Sc. Hons. (Co-op) in Genetics and Minor in Psychology
+    institution: University of Manitoba
+    year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -50,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:dwo@sun.ac.za"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:xxx@myumanitoba.ca"  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/USERNAME
@@ -73,13 +64,19 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Co-supervised Alumni
+- Research Team
 
 ---
-I am a Postdoctoral Research Fellow at Stellenbosch University, South Africa, who has been awarded a Mitacs Globalink internship in the Drögemöller lab (co-supervised by the Wright Lab). I previously completed my M.Sc. in Biochemistry and Ph.D. in Physiological Sciences at Stellenbosch University, South Africa. My main research areas include cancer, immunity, pharmacogenetics, and personalized medicine.
+I am a Summer Co-op Research Student at Dr. Wright's lab. This is my third Co-op work semester as a B.Sc. Hons. (Co-op) in Genetics and Minor in Psychology. I am passionate about learning and applying molecular biology and genetic techniques and using bioinformatics to reduce the global burden of diseases. I am committed to utilizing my abilities to impact the quality of life of affected individuals positively.
+
+**Awards/fellowships:**
+- Stem Cell Network Summer Studentship Award (2023)
+- CHRIM Undergraduate Summer Studentship Award (2023)
 
 **Hobbies:**
-- Adventure motorcycling
-- Hunting
-- Fishing 
-- Snowboarding
+- Playing my guitar
+- Playing Pokemon Go
+- Running
+
+**Favourite movie:** 
+- Hunger Games
