@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Undergrad Student
+role: Undergrad Student (co-supervised)
 
 # Organizations/Affiliations
 organizations:
@@ -67,7 +67,7 @@ user_groups:
 - Co-supervised Alumni
 
 ---
-I am a current B.Sc. undergraduate student in Biological Sciences (Cell, Molecular, and Developmental Biology Concentration) at the University of Manitoba. For my project, I will be analyzing properties of genes implicated in pediatric, adult, and diverse-onset neuromuscular disorders through a co-supervision between the Wright and Drögemöller Labs. I am particularly interested in research involving computational biology and bioinformatics approaches, molecular and developmental biology, genomics, genetic testing and gene therapy, and neurodegenerative diseases.
+I am a current B.Sc. undergraduate student in Biological Sciences (Cell, Molecular, and Developmental Biology Concentration) at the University of Manitoba. For my project, I will be analyzing properties of genes implicated in pediatric, adult, and diverse-onset neuromuscular disorders through a co-supervision between the Wright and [Drögemöller Labs](https://www.drogemollerlab.com/). I am particularly interested in research involving computational biology and bioinformatics approaches, molecular and developmental biology, genomics, genetic testing and gene therapy, and neurodegenerative diseases.
 
 **Awards/fellowships:**
 - NSERC Undergraduate Student Research Award (2023)

@@ -73,6 +73,7 @@ I am an M.Sc. student in the Department of Pharmacology and Therapeutics at the 
 
 **Awards/fellowships:**
 - University of Manitoba Graduate Fellowship
+- CIHR Canada Graduate Scholarships – Master’s Studentship
 
 **Hobbies:**
 - Snowboarding 

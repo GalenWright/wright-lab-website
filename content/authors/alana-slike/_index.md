@@ -70,6 +70,7 @@ I am a Ph.D. student in the Department of Pharmacology and Therapeutics at the U
 - University of Manitoba Graduate Studentship
 - Research Manitoba Master's Studentship (*offered*) 
 - CIHR Canada Graduate Scholarships – Master's Studentship
+- Graduate Enhancement of Tri-Agency Stipends (GETS) Program Award
 - Clive Greenway Presentation Award
 
 **Hobbies:**

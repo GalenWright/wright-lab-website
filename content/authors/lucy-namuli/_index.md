@@ -71,6 +71,7 @@ I am an M.Sc. student in the Department of Pharmacology and Therapeutics at the 
 
 **Awards/fellowships:**
 - Graduate Enhancement of Tri-Agency Stipends (GETS) Program Award
+- Research Manitoba Masters Studentship
 
 **Hobbies:**
 - Nature walks
