@@ -27,7 +27,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Congratulations to Alana who attended the week-long Brain Organogenesis Workshop at Stanford. She was the first Canadian trainee participating in this workshop and was one of 25 applicants selected from around the world. The workshop covered human stem cell maintenance and the generation of 3D organoids/assembloids. See a YouTube video covering the workshop below.
+Congratulations to [Alana Slike](/author/alana-slike/) who attended the week-long Brain Organogenesis Workshop at Stanford. She was the first Canadian trainee participating in this workshop and was one of 25 applicants selected from around the world. The workshop covered human stem cell maintenance and the generation of 3D organoids/assembloids. See a YouTube video covering the workshop below.
 
 We are looking forward to implementing these techniques in the lab here in Manitoba!
 
