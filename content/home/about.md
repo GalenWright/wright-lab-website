@@ -6,8 +6,8 @@
 widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 15 # Order that this section will appear.
-title:
-hero_media: ai_brain.png
+title: About
+hero_media: psc_neuron.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
@@ -27,3 +27,8 @@ Insights obtained from our research can lead to a better understanding of human 
 **KEY PROJECTS**
 - Genetic modifiers of neurological disorders
 - Genomics of DNA repair in the brain
+
+<br>
+
+<span style="color:#7BAFD4">**Territory acknowledgement**: *Our research group is located on the original lands of Anishinaabeg, Cree, Oji-Cree, Dakota and Dene peoples, and on the homeland of the Métis Nation. We respect the Treaties that were made on these territories, we acknowledge the harms and mistakes of the past, and we dedicate ourselves to moving forward in partnership with Indigenous communities in a spirit of reconciliation and collaboration.*</span>
+

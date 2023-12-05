@@ -15,7 +15,7 @@ subtitle:
 design:
   columns: '1'
   background:
-    image: lab_gantt_people.png
+    image: lab_gantt_people_dec_2023.png
     image_darken: 1
     image_parallax: false
     image_position: center

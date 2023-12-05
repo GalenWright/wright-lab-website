@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "New Funding: CIHR Catalyst Grant"
+title: "New Funding (co-PI): CIHR Catalyst Grant"
 subtitle: ""
 summary: ""
 authors: []

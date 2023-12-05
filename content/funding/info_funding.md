@@ -26,7 +26,14 @@ design:
 advanced:
   css_class: 
 ---
+<!-- - XXX Grant: [**](/post//). Funded by xxx ($xx,000). -->
 ## We are grateful for the support from numerous funding organizations, including:
+
+- CFI-JELF Grant (co-PI): [*Precision Genomics Suite*](/post/23-08-29-cfi/). Funded by the Canada Foundation for Innovation ($1,328,074).
+
+- Catalyst Grant: Analysis of CLSA Data (co-PI): [*Bioinformatic investigation of previously neglected regions of the genome and their association with age-related hearing loss*](/post/23-03-17-clsa/). Funded by the Canadian Institutes of Health Research ($70,000).
+
+- University Research Grants Program Grant: [*Population screening of RFC1 expansions related to an underreported ataxia*](/post/23-01-31-urgp23/). Funded by the University of Manitoba ($10,000).
 
 - New Investigator Operating Grant: [*Identification of causal genetic variants and genes in neuromuscular disorders*](/post/22-09-01-rmb-ni/). Funded by Research Manitoba ($130,000).
 

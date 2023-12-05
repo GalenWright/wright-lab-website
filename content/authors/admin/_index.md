@@ -10,6 +10,8 @@ role: Assistant Professor | Canada Research Chair in Neurogenomics
 
 # Organizations/Affiliations
 organizations:
+- name: PrairieNeuro Research Centre
+  url: "https://prairieneuro.ca/"
 - name: Pharmacology and Therapeutics, University of Manitoba
   url: "https://umanitoba.ca/medicine/department-pharmacology-and-therapeutics"
 - name: Manitoba Neuroscience Network
