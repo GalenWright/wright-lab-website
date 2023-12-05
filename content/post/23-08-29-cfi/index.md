@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "New Funding (co-PI): CFI-JELF to establish a Precision Genomics Suite with the Drögemöller and Kowalec Labs"
+title: "New Funding (co-PI): $1.3M CFI-JELF to establish a Precision Genomics Suite with the Drögemöller and Kowalec Labs"
 subtitle: ""
 summary: ""
 authors: []
