@@ -33,7 +33,7 @@ The Wright Lab is co-principal applicant on this joint work, along with other co
 
 Parts of our suite will provide new resources for both single cell and spatially-resolved transcriptomics: 
 - [Chromium iX (single cell sequencing library preparation)](https://www.10xgenomics.com/instruments/chromium-x-series)
-- [Visium CytAssist (prepares Visium spatial slides for spatial sequencing studies)](https://www.10xgenomics.com/instruments/visium-cytassist)
+- [Visium CytAssist (prepares Visium slides for spatial sequencing studies)](https://www.10xgenomics.com/instruments/visium-cytassist)
 - [Xenium Analyzer (*in situ* spatial studies)](https://www.10xgenomics.com/instruments/xenium-analyzer)
 
 Thank you to our funders for their support. We are looking forward to using this new equipment to perform new neurogenomics studies!
