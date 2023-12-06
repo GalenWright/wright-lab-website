@@ -40,7 +40,7 @@ At the start of the Summer, we had a joint BBQ with our collaborators labs. It w
 2) Congratulations to all three undergraduates for successfully obtaining competitive funding to support their work in the lab:
 - [Mason Hollebeke](/author/mason-hollebeke/): ENRRICH Summer Studentship (2023) and University of Manitoba Undergraduate Research Award (2023, declined)
 - [Prats Singhal](/author/pratyaksh-singhal/):
-Stem Cell Network Summer Studentship Award (2023) and CHRIM Undergraduate Summer Studentship Award (2023)
-- [Lexi Martin](/author/alexandria-martin/) (co-supervised Drögemöller Lab): NSERC Undergraduate Student Research Award (2023) and CHRIM Undergraduate Summer Studentship (2023)
+[Stem Cell Network Summer Studentship Award (2023)](https://stemcellnetwork.ca/stem-cell-network-announces-awardees-of-the-2023-summer-studentships/) and [CHRIM Undergraduate Summer Studentship Award (2023)](https://www.chrim.ca/2023/2023-summer-studentships/)
+- [Lexi Martin](/author/alexandria-martin/) (co-supervised Drögemöller Lab): NSERC Undergraduate Student Research Award (2023) and [CHRIM Undergraduate Summer Studentship (2023)](https://www.chrim.ca/2023/2023-summer-studentships/)
 <br><br>
 5) Finally, well done to [Mahkam Shariatzadeh](/author/mahkam-shariatzadeh) for successfully completing their B.Sc. Genetics Honors Thesis Project in the Marcogliese Lab, in collaboration with the Wright Lab!

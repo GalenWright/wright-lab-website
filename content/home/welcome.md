@@ -36,7 +36,7 @@ cta_alt:
 
 Hello there, welcome to the <span style="color:#F2A900">**Wright Lab**</span>! We are a human genetics research group at the University of Manitoba that uses genomics to understand the brain in health and disease.
 
-<span style="color:#7BAFD4">*We would like to understand why individuals affected by the same neurological disorder can experience differences in disease severity and onset.*</span>
+<span style="color:#7BAFD4">*We would like to understand why individuals affected by the **same** neurological disorder can experience **differences** in disease severity and onset. Insights obtained from these analyses can be used to guide future therapeutic approaches to improve disease management.*</span>
 
 <br>
 
