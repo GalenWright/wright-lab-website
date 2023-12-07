@@ -29,6 +29,6 @@ projects: []
 ---
 Exciting news! Members of the Wright Lab, [Alana Slike](/author/alana-slike/) and [Lucy Namuli](/author/kevin-lucy-namuli/), attended and presented at the International Congress of Human Genetics in South Africa. 
 
-Both of students received travel awards to attend the conference - congratulations! They also presented at the Young Investigators Forum held at the University of Cape Town. 
+Both trainees received travel awards to attend the conference - congratulations! They also presented at the Young Investigators Forum held at the University of Cape Town. 
 
 In between the conference schedule, we were able to visit Table Mountain, and make a trip to see collaborators in Stellenbosch.
