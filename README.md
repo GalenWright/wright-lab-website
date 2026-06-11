@@ -4,15 +4,15 @@
   <img src="./assets/media/lab_logo.png" alt="Wright Lab logo" width="220">
 </p>
 
-Source code for the Wright Lab website:
-https://galenwrightlab.com
+Source code for the Wright Lab website:  
+<https://galenwrightlab.com>
 
 The Wright Lab is a neurogenomics research group at the University of Manitoba focused on human genetic variation, neurological disease modifiers, DNA repair, precision genomics, and human cellular models of brain disease.
 
 ## Theme
 
-This website is based on the Hugo Blox Research Group theme:
-https://github.com/HugoBlox/theme-research-group
+This website is based on the Hugo Blox Research Group theme:  
+<https://github.com/HugoBlox/theme-research-group>
 
 It uses Hugo modules and includes local configuration, content, and template overrides specific to the Wright Lab site.
 
@@ -32,31 +32,21 @@ layouts/      Local template overrides
 
 ## Common content updates
 
-People profiles are stored in:
+Most routine website updates should be made in `content/`. Changes to `config/`, `layouts/`, `go.mod`, or `netlify.toml` should be treated as site-configuration changes and tested carefully before pushing.
 
-```text
-content/authors/
-```
+| Update type | Location |
+|---|---|
+| People profiles | `content/authors/` |
+| News posts | `content/post/` |
+| Publications | `content/publication/` |
+| Site-wide configuration | `config/_default/` |
+| Local template overrides | `layouts/` |
 
-News posts are stored in:
+After editing content, preview the site locally using the instructions in **Local development** below.
 
-```text
-content/post/
-```
+## Local development
 
-Publications are stored in:
-
-```text
-content/publication/
-```
-
-Site-wide configuration files are stored in:
-
-```text
-config/_default/
-```
-
-After editing content, preview the site locally with:
+Install Hugo Extended, then run:
 
 ```bash
 hugo server --cleanDestinationDir --gc
@@ -66,14 +56,6 @@ The local site will be available at:
 
 ```text
 http://localhost:1313/
-```
-
-## Local development
-
-Install Hugo Extended, then run:
-
-```bash
-hugo server --cleanDestinationDir --gc
 ```
 
 For a full rebuild without fast render mode:
