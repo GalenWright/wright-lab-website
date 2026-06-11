@@ -1,7 +1,7 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
+# Documentation: https://docs.hugoblox.com/managing-content/
 
-title: Characterisation of CYP2B6 and CYP2A6 pharmacogenetic variation in sub-Saharan
+title: Characterization of CYP2B6 and CYP2A6 pharmacogenetic variation in sub-Saharan
   African populations
 subtitle: ''
 summary: ''
@@ -19,8 +19,8 @@ authors:
 - ' others'
 tags: []
 categories: []
-date: -01-01
-lastmod: 2023-12-07T16:05:16-06:00
+date: '2024-01-01'
+lastmod: 2026-06-11T10:44:57-05:00
 featured: false
 draft: false
 
@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-07T22:05:16.187741Z'
+publishDate: '2026-06-11T15:44:57.061783Z'
 publication_types:
 - '2'
 abstract: ''
