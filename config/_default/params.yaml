@@ -18,7 +18,7 @@ marketing:
     site_type: Organization
     local_business_type: 'Academic'
     org_name: 'Wright Lab'
-    description: 'The Wright Lab is a neurogenomics research group at the University of Manitoba.'
+    description: 'The Wright Lab studies genomics, neurogenomics, human genetics, genetic modifiers, DNA repair, brain organoids, long-read sequencing, single-cell and spatial omics, and emerging computational methods in neurological disease.'
     twitter: 'GalenWright'
   analytics:
     google_analytics: ''
